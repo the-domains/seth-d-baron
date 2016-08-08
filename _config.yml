@@ -1,0 +1,28 @@
+name: Seth D Baron
+favicon: null
+layout_spectrum: 0.8335007533896714
+typography_spectrum: 0.9418128796387464
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9370058770291507
+  lightness: 0.3052679826505482
+  saturation: 0.22782801510766149
+  rhythmicContrast: 0.56537647661753
+purpose: []
